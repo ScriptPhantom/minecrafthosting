@@ -1,0 +1,12 @@
+{
+  "name": "Minecraft Server",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [25565],
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    }
+  }
+}
